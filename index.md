@@ -4,9 +4,6 @@ title: Wu Zhen
 email:
   url: mailto:zhenkirito@pku.edu.cn
   text: zhenkirito@pku.edu.cn
-name:
-  text: Wu Zhendd
-  ID: 1900012724
 <!--homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden-->
@@ -46,7 +43,8 @@ Hangzhou, China
 
 ## Grades
 
-### **GPA: 3.84 (25 credits)**
+### **GPA (all): 3.84 (25 credits)**
+### **GPA (professional): 3.88 (17 credits)**
 - Mathematical Analysis - 95.5
 - Advanced Algebra - 90
 - Introduction to Computing A - 91
