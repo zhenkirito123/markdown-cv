@@ -39,6 +39,7 @@ Hangzhou, China
 
 - Grades: top 10 in ~600 students
 - Honor: Merit Student of Hangzhou, 2018
+- Awards: First Prize, Chinese Chemistry Olympiad (National Preliminary)
 
 ## Grades
 
@@ -57,6 +58,11 @@ Ranked **top 15** in ~600 bots and scored **10/10** in the project assessment.
 
 Academic Department of the Student Union `Peking University, 2019 - ` <br>
 Public Relation Department of the Student Union `Hangzhou No.2 High School, 2016 - 2017`
+
+## Skills
+
+**Programming** C/C++, Python, LATEX, MarkDown
+**Languages** Chinese, native speaker; English, proficient (CET4 649/710)
 
 <!-- ### Footer
 
