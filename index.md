@@ -49,7 +49,7 @@ Hangzhou, China
 ## Grades
 
 ### **GPA: 3.84 (25 credits)**
-- GPA (professional): 3.88 (17 credits)
+- **GPA (professional): 3.88 (17 credits)**
 - Mathematical Analysis - 95.5
 - Advanced Algebra - 90
 - Introduction to Computing A - 91
