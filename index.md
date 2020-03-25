@@ -50,7 +50,7 @@ Hangzhou, China
 ## Projects
 
 ### **Amazons** `2020.1`
-An AI program for playing the Game of Amazons.
+An AI program for playing the Game of Amazons. <br>
 Ranked **top 15** in ~600 bots and scored **10/10** in the project assessment.
 
 ## Services
