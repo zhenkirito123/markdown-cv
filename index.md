@@ -21,6 +21,11 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
+## Introduction
+
+### Name: Wu Zhen
+### ID: 1900012724
+
 ## Education
 
 ### **Peking University** `2019.9 -`
