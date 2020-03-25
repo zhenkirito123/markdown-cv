@@ -4,13 +4,16 @@ title: Wu Zhen
 email:
   url: mailto:zhenkirito@pku.edu.cn
   text: zhenkirito@pku.edu.cn
+name:
+  text: Wu Zhen
+  ID: 1900012724
 <!--homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden-->
 ---
 
 # Kevin **Wu**
-## Wu Zhen 1900012724
+
 <!--
 include contact information from the front matter
 Supported arguments:
