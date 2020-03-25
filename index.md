@@ -5,7 +5,7 @@ email:
   url: mailto:zhenkirito@pku.edu.cn
   text: zhenkirito@pku.edu.cn
 name:
-  text: Wu Zhen
+  text: Wu Zhendd
   ID: 1900012724
 <!--homepage:
   url: http://cs.cmu.edu/~woden
