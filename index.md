@@ -4,9 +4,9 @@ title: Wu Zhen
 email:
   url: mailto:zhenkirito@pku.edu.cn
   text: zhenkirito@pku.edu.cn
-homepage:
+<!--homepage:
   url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden-->
 ---
 
 # Kevin **Wu**
