@@ -54,7 +54,7 @@ An AI program for playing the Game of Amazons. Ranked **top 15** in ~600 bots an
 
 ## Services
 
-Academic Department of the Student Union `Peking University, 2019 - `<br>
+Academic Department of the Student Union `Peking University, 2019 - ` <br>
 Public Relation Department of the Student Union `Hangzhou No.2 High School, 2016 - 2017`
 
 <!-- ### Footer
