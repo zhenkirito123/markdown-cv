@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Wu Zhen
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:zhenkirito@pku.edu.cn
+  text: zhenkirito@pku.edu.cn
 homepage:
   url: http://cs.cmu.edu/~woden
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Kevin **Wu**
 
 <!--
 include contact information from the front matter
