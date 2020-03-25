@@ -43,8 +43,8 @@ Hangzhou, China
 
 ## Grades
 
-### **GPA (all): 3.84 (25 credits)**
-### **GPA (professional): 3.88 (17 credits)**
+### **GPA: 3.84 (25 credits)**
+- GPA (professional): 3.88 (17 credits)
 - Mathematical Analysis - 95.5
 - Advanced Algebra - 90
 - Introduction to Computing A - 91
@@ -62,7 +62,7 @@ Public Relation Department of the Student Union `Hangzhou No.2 High School, 2016
 
 ## Skills
 
-**Programming** C/C++, Python, LATEX, MarkDown <br>
+**Programming** C/C++, Python, LaTeX, MarkDown <br>
 **Languages** Chinese, native speaker; English, proficient (CET4 649/710)
 
 <!-- ### Footer
