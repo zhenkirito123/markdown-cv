@@ -61,7 +61,7 @@ Public Relation Department of the Student Union `Hangzhou No.2 High School, 2016
 
 ## Skills
 
-**Programming** C/C++, Python, LATEX, MarkDown
+**Programming** C/C++, Python, LATEX, MarkDown <br>
 **Languages** Chinese, native speaker; English, proficient (CET4 649/710)
 
 <!-- ### Footer
